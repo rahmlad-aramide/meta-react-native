@@ -14,7 +14,7 @@ The specialization is divided into 8 courses, each one having its own certificat
 
 5. [React Native](https://github.com/kelvinleandro/coursera-meta-react-native/tree/main/course-05-react-native)
 
-6. Working with data
+6. Working with data(https://github.com/kelvinleandro/coursera-meta-react-native/tree/main/course-06-working-with-data)
 
 7. [Principles of UX/UI Design](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2007%20-%20principles%20of%20UX%20UI%20Design)
 
