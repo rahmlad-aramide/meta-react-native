@@ -18,4 +18,4 @@ The specialization is divided into 8 courses, each one having its own certificat
 
 7. [Principles of UX/UI Design](https://github.com/kelvinleandro/coursera-meta-front-end/tree/main/course%2007%20-%20principles%20of%20UX%20UI%20Design)
 
-8. Capstone React App
+8. [Capstone React App](https://github.com/kelvinleandro/coursera-meta-react-native/tree/main/course-08-capstone-react-app)
